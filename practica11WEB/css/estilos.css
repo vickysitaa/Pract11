@@ -1,0 +1,88 @@
+body{
+	background-image: url('../images/fondo.jpg');
+	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;	
+	font-family:'Roboto', sans-serif;
+    font-size:1.5rem; 
+}
+.container {
+	display: block;
+	width: 700px;
+	height: 300px;
+	float: left;
+	background-image: url('../images/estado7.jpg');	
+	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;	
+}
+.pronostico {
+	background-image: url('../images/fondo2.jpg');	
+	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;	
+}
+
+.mainLeft {
+	width: 300px;
+	float: left;
+}
+.mainRight {
+	width: 500px;
+	float: left;
+}
+.row {
+	width: 500px;
+	float: left;
+}
+.left {
+	width: 200px;
+	font-weight: bold;
+	font-family: helvetica;
+	float: left;
+	background-color: #DDA4F5;
+}
+.right {
+	font-family: helvetica;
+	width: 300px;
+	float: left;
+	background-color: #A5A5A6;
+}
+.buttonRight {
+	float: right;
+}
+.color0 {
+	background-color: #003e49;
+}
+.color1 {
+	background-color: #E7C8F4;
+}
+.color2 {
+	background-color: #F0D0FD;
+}
+.color3 {
+	background-color: white;
+}
+.clearRow {
+    clear:both;
+}
+.fontSmall {
+	font-size: 10pt;
+}
+table {
+	width: 500px;
+	float:left;
+}
+th {
+	background-color: #ee4545;
+	font-family: helvetica;
+	border: thin solid black;
+	font-size: 10pt;
+}
+td {
+	background-color: #fdcc9fdb;
+	font-family: helvetica;
+	border: thin solid black;
+	font-size: 10pt;
+}
+
